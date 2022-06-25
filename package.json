@@ -4,7 +4,7 @@
   "description": "",
   "license": "MIT",
   "scripts": {
-    
+    "start": "vite",
     "build": "vite build",
     "lint": "eslint src/**/*.js",
     "format": "prettier --write src/**/*.js",
